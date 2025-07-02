@@ -15,8 +15,8 @@ Each task is organized in its own folder with:
 | Task | Description |
 |------|-------------|
 | [2.1 - Sensor Data Processing](./2.1) | Simulates sensor data (temperature/humidity), filters based on conditions, and handles air quality analysis |
-| [2.2 - XYZ Task Name](./2.2) | [Placeholder: Brief 1-line description of another task] |
-| [2.3 - ...] | [Add as you go] |
+| [2.2 - XYZ Task Name](./2.2) | [.... ] |
+| [2.3 - ...] | [Adding as i go] |
 
 > 💡 New tasks will be added regularly as I continue building my portfolio.
 
